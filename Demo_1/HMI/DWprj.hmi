@@ -1,0 +1,15 @@
+[INIT]
+PICFIX=1
+VARCount=64
+Version=-1
+ProVersion=643
+SCREENDSIZE=800X480
+SPADDRESS=5000
+[IMG]
+00=00_splash.jpg
+01=01_splashbg.jpg
+02=02_buttonsDashboard.jpg
+03=03_buttonsDashboardbg.jpg
+04=04_incrementalAdjustment.jpg
+05=05_incrementalAdjustmentbg.jpg
+06=06_info.jpg
