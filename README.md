@@ -1,5 +1,5 @@
 # DWIN_Traning_Demos
-DWIN Traning Examples
+DWIN DGUS IDE Traning Demos. With this repo you will get 
 
 ## Demo_1
 
