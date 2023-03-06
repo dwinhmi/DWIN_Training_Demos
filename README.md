@@ -1,4 +1,4 @@
-# DWIN_Traning_Demos
+# DWIN_Training_Demos
 
 DWIN DGUS IDE Traning Demos.
 
@@ -13,3 +13,17 @@ Demo one will cover below menu options
 - Slider Adjustment
 
 ## Demo_2
+
+- Animation Icon
+- Variable Icon
+- Bit Icon
+
+## Demo_3
+
+- Number Input
+- Text Input
+
+## Demo 4
+
+- QR Code
+- Scrolling Text
