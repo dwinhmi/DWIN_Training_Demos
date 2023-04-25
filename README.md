@@ -23,7 +23,4 @@ Demo one will cover below menu options
 - Number Input
 - Text Input
 
-## Demo 4
 
-- QR Code
-- Scrolling Text
